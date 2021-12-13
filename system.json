@@ -11,14 +11,18 @@
   "styles": ["styles/magikalogia.css"],
   "packs": [],
   "languages": [
-        {"lang": "ko", "name": "Korean", "path": "lang/ko.json"}
+        {
+          "lang": "ko",
+          "name": "Korean",
+          "path": "lang/ko.json"
+        }
   ],
   "gridDistance": 5,
   "gridUnits": "ft",
   "primaryTokenAttribute": "mana",
   "secondaryTokenAttribute": "",
   "url": "https://github.com/ksx0330/FVTT-Magicalogia-System",
-  "manifest": "https://raw.githubusercontent.com/ksx0330/FVTT-Magicalogia-System/main/system.json",
-  "download": "https://codeload.github.com/ksx0330/FVTT-Magicalogia-System/zip/main",
+  "manifest": "https://raw.githubusercontent.com/jbblily/FVTT-Magicalogia-System/patch1/system.json",
+  "download": "https://codeload.github.com/jbblily/FVTT-Magicalogia-System/zip/patch1",
   "license": "LICENSE.txt"
 }
